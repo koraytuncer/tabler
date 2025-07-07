@@ -1,5 +1,23 @@
 # @tabler/core
 
+## 1.4.0
+
+### Minor Changes
+
+- a200d30: Improve breadcrumb styles
+
+### Patch Changes
+
+- 6c4dd36: Update class names from `*-left`, `*-right` to `*-start`, `*-end`
+- 6fec73a: Fix relative line heights in buttons
+- 9951fe9: Enhance button and hover animations
+- db6200a: Remove `license_key` option from HugeRTE init object
+- e96f055: Add different favicon to development environment
+- 6c38a48: Update Bootstrap to v5.3.7
+- 2a12f72: Update CSS calculations to use `calc()`
+- 666a296: Fix list group item hoverable only with `.list-group-hoverable` class
+- cfd4cb6: Fix `.pagination-link` hover styles to non-active items
+
 ## 1.3.2
 
 ### Patch Changes
